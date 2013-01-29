@@ -35,7 +35,7 @@ e.g.
 
 Screenshots shown below.
 
-`/assets/screenshot-1.png`
+/assets/screenshot-1.png
 
 == Changelog ==
 
