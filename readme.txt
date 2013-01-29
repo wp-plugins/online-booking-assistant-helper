@@ -1,4 +1,4 @@
-=== Online Booking System Helper ===
+=== Online Booking Assistant Helper ===
 Contributors: seanbarton, gordondrayson
 Tags: online booking assistant, online, booking, assistant, contact form, auto responder
 Requires at least: 3.0
