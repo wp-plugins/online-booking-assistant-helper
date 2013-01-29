@@ -33,7 +33,7 @@ e.g.
 
 == Screenshots ==
 
-Screenshots available at: http://www.onlinebookingassistant.com/wordpress-plugin/
+Screenshots shown below.
 
 == Changelog ==
 
