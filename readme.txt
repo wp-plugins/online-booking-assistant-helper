@@ -35,6 +35,8 @@ e.g.
 
 Screenshots shown below.
 
+`/assets/screenshot-1.png`
+
 == Changelog ==
 
  1.0:	First Release version
