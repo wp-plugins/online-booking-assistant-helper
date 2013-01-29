@@ -33,9 +33,7 @@ e.g.
 
 == Screenshots ==
 
-Screenshots shown below.
-
-/assets/screenshot-1.png
+1. Settings Page
 
 == Changelog ==
 
